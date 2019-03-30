@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /test/files</title>
+ </head>
+ <body>
+<h1>Index of /test/files</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/test/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="%d0%bf%d0%b5%d1%87%d0%b0%d1%82%d1%8c.png">печать.png</a>       </td><td align="right">2019-02-17 11:15  </td><td align="right">202K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="5c9d2d50297da1.01451681.jpg">5c9d2d50297da1.01451..&gt;</a></td><td align="right">2019-03-28 22:23  </td><td align="right"> 74K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="5c9d2d67746d10.20393868.jpg">5c9d2d67746d10.20393..&gt;</a></td><td align="right">2019-03-28 22:24  </td><td align="right"> 72K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="5c9d2e4c82fe22.54360858.txt">5c9d2e4c82fe22.54360..&gt;</a></td><td align="right">2019-03-28 22:27  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="5c9dccef726d13.22608601.jpg">5c9dccef726d13.22608..&gt;</a></td><td align="right">2019-03-29 09:44  </td><td align="right">200K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="5c9ddc1e880046.03794741.jpg">5c9ddc1e880046.03794..&gt;</a></td><td align="right">2019-03-29 10:49  </td><td align="right">123K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="5c9e2a48c4dde2.16073921.jpg">5c9e2a48c4dde2.16073..&gt;</a></td><td align="right">2019-03-29 16:23  </td><td align="right">274K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="5c9e28eb8945f7.17251845.jpg">5c9e28eb8945f7.17251..&gt;</a></td><td align="right">2019-03-29 16:17  </td><td align="right">117K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/image2.gif" alt="[IMG]"></td><td><a href="IMG_2246.JPG">IMG_2246.JPG</a>           </td><td align="right">2019-03-28 21:16  </td><td align="right">1.5M</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="abc.txt">abc.txt</a>                </td><td align="right">2019-03-27 20:37  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.3 Server at localhost Port 80</address>
+</body></html>
